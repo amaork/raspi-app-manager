@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>ico/debug.ico</file>
+    <file>ico/raspi.ico</file>
+    <file>ico/update.ico</file>
+    <file>ico/simulator.ico</file>
+  </qresource>
+   <qresource prefix="png">
+   </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+C:\Python36-32/Lib/site-packages/pyside/pyside-rcc.exe -py3 resources.qrc > ../resources_rc.py
