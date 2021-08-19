@@ -7,4 +7,4 @@ Raspberry Pi App Manager (Powered by  [RaspiIOServer](https://github.com/amaork/
 - Join/Leave wireless network
 - More features coming soon...
 
-![resource/main.png](resources\png\main.png)
+![resource/main.png](resources/png/main.png)
